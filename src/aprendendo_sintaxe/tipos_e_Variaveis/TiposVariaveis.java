@@ -1,6 +1,6 @@
 package aprendendo_sintaxe.tipos_e_Variaveis;
 
-public class tiposVariaveis {
+public class TiposVariaveis {
     public static void main(String[] args) {
         double salarioMedio =2.500;
         short numeroCurto = 1;
