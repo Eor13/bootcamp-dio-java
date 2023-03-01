@@ -15,16 +15,5 @@ public class ExmplosDeVariaveis {
         numero = 10;
 
         System.out.print(numero);
-
-        /*
-         * ao usar a palavra reservada final, você determina que jamais
-         * esta variavel poderá obter outro valor;
-         * logo a linha 25 vai apresentar um erro de compilação
-         * isso é considerado uma CONSTANTE na linguagem Java
-         */
-        final double VALOR_DE_PI = 3.14;
-
-        // VALOR_DE_PI=3.15;
-        //Esta linha vai apresentar erro de compilação!
     }
 }
